@@ -1,6 +1,6 @@
-# Portfólio de Cientista de Dados
+# Portfólio
 
-Bem-vindo ao meu portfólio de Cientista de Dados! Aqui você encontrará uma coleção de projetos e trabalhos nos quais tenho trabalhado, demonstrando minha paixão por explorar e extrair insights valiosos dos dados.
+Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos e trabalhos nos quais tenho me dedicado, demonstrando minha paixão por explorar e extrair insights valiosos dos dados.
 
 Meu nome é Emmanuel, sou um apaixonado por dados e suas aplicações para resolver problemas complexos. Ao longo da minha carreira como Cientista de Dados, tenho adquirido conhecimentos e habilidades em diversas áreas, incluindo análise de dados, modelagem estatística, machine learning e visualização de dados.
 
