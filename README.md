@@ -1,4 +1,4 @@
-# Portfólio
+# Data Projects
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos e trabalhos nos quais tenho me dedicado, demonstrando minha paixão por explorar e extrair insights valiosos dos dados.
 
