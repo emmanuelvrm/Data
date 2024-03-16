@@ -1,1 +1,0 @@
-Analises despretenciosas
